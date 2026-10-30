@@ -20,6 +20,12 @@ The synthetic review results demonstrate methods and do not establish actual buy
 - Sentiment, value dimensions, n-grams, PMI, networks and topic analysis.
 - A separate synthetic Tesla review notebook with summary figures.
 
+## Insight poster
+
+[Open the original assessment poster](docs/tesla_owner_experience_poster.pdf), designed for the Data-Driven Insights assessment. The original PDF is preserved with a descriptive filename; it combines historical secondary-source context, exploratory analysis of synthetic reviews and a proposed owner survey.
+
+The synthetic CSV contains 500 rows and 306 unique normalised texts: 38.8% are repeated entries after the first occurrence. VADER classifies 66% of review text as positive, while 51% of ratings are 1–2 stars. These describe the supplied synthetic dataset and illustrate the need to compare sentiment, ratings and data quality. They do not establish real-owner satisfaction. Market-source statements retain their original assessment context.
+
 ## Setup
 
 ```bash
