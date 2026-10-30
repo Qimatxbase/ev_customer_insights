@@ -4,6 +4,16 @@ A customer-text analysis pipeline and synthetic-review NLP study of the Australi
 
 **Technologies:** Python · pandas · NLTK · scikit-learn · Plotly
 
+## Academic context and evidence
+
+Developed for **UTS 24761 Data-Driven Insights, Assessments 1 and 2**, combining secondary-source market analysis with an illustrative customer-review analysis.
+
+- The Tesla review study uses **500 synthetic reviews** to demonstrate cleaning, sentiment, themes and reporting methods.
+- The survey component was proposed and **has not been conducted**.
+- At the retained collection checkpoint, the Tesla/BYD pipeline recorded **zero raw and zero cleaned real-world observations**.
+
+The synthetic review results demonstrate methods and do not establish actual buyer sentiment, representative market findings or survey outcomes.
+
 ## What is included
 
 - Source collectors, a common review schema, relevance scoring and duplicate detection.
