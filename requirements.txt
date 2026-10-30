@@ -1,0 +1,2 @@
+-r tesla_byd_customer_analysis/requirements.txt
+jupyterlab

@@ -1,0 +1,501 @@
+﻿review_id,review_date,country,city,vehicle_model,rating,review_text
+TSLA-0440,14/08/2025,Australia,Sydney,Model Y,4,"The range is reliable for my usage, especially with home charging. My service appointment was smooth and the staff explained the issue clearly."
+TSLA-0368,6/03/2025,Australia,Adelaide,Model Y,3,"The mobile technician was helpful, but the wait time for booking was longer than expected. Cabin quality is fine, though not luxurious."
+TSLA-0487,3/12/2025,Australia,Melbourne,Model 3,4,"I was worried about charging before buying, but it has been one of the easiest parts of ownership. The acceleration is incredible."
+TSLA-0401,2/05/2024,Australia,Geelong,Model 3,4,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0116,4/11/2024,Australia,Geelong,Model X,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. Not a deal breaker, but it affects trust."
+TSLA-0479,18/12/2025,Australia,Adelaide,Model Y,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership."
+TSLA-0054,5/07/2025,Australia,Gold Coast,Model S,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0481,15/03/2026,Australia,Adelaide,Model Y,5,My service appointment was smooth and the staff explained the issue clearly.
+TSLA-0310,25/06/2024,Australia,Gold Coast,Model Y,2,A recent update made the parking sensors feel less accurate.
+TSLA-0003,16/02/2026,Australia,Sydney,Model 3,2,Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive.
+TSLA-0015,18/06/2026,Australia,Canberra,Model 3,2,"Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind. I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. Not a deal breaker, but it affects trust."
+TSLA-0350,14/04/2024,Australia,Hobart,Model Y,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0138,5/04/2025,Australia,Sydney,Model Y,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0458,22/06/2025,Australia,Sydney,Model Y,4,The Supercharger network has made longer drives easier than I expected. The app routing is useful and generally accurate.
+TSLA-0415,3/08/2024,Australia,Adelaide,Cybertruck,5,I find Autopilot helpful and safer when used properly.
+TSLA-0291,29/02/2024,Australia,Perth,Model Y,1,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Software updates are a mixed bag.
+TSLA-0094,3/10/2025,Australia,Canberra,Model Y,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. Overall, I expected better."
+TSLA-0160,29/03/2026,Australia,Melbourne,Model 3,3,A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them.
+TSLA-0278,11/06/2024,Australia,Adelaide,Model X,3,"The car is quick, but the ride can feel firm on rough roads. Cold mornings and highway driving reduce range noticeably."
+TSLA-0493,30/11/2025,Australia,Geelong,Model Y,5,The lane keeping and adaptive cruise control are very smooth most of the time. It still feels exciting to drive.
+TSLA-0264,16/05/2025,Australia,Brisbane,Model 3,3,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls. The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0104,3/04/2026,Australia,Canberra,Model S,2,"The interior looks clean, but some materials feel cheaper than expected for the price. Overall, I expected better."
+TSLA-0163,21/09/2025,Australia,Canberra,Model S,2,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests. The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0228,23/08/2024,Australia,Canberra,Model 3,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0321,4/02/2025,Australia,Hobart,Model Y,3,"The mobile technician was helpful, but the wait time for booking was longer than expected. Cabin quality is fine, though not luxurious."
+TSLA-0159,16/09/2024,Australia,Newcastle,Model S,2,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived."
+TSLA-0234,15/09/2024,Australia,Geelong,Model 3,1,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated. Software updates are a mixed bag.
+TSLA-0387,13/04/2025,Australia,Perth,Model X,3,"Service was okay, but not exceptional."
+TSLA-0365,16/12/2024,Australia,Brisbane,Model X,3,"The feature is useful in some situations and annoying in others. It depends on the road conditions. Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0190,31/05/2024,Australia,Gold Coast,Model Y,2,"The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0341,28/05/2026,Australia,Newcastle,Model 3,4,"Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0347,27/05/2026,Australia,Perth,Model Y,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0413,3/02/2026,Australia,Brisbane,Model Y,5,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0373,10/01/2024,Australia,Sydney,Model X,3,"Range is acceptable for daily driving, but long trips need planning. There are clear pros and cons."
+TSLA-0024,8/11/2025,Australia,Geelong,Model Y,2,"I appreciate updates, but not when they remove features or move controls without warning. Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive."
+TSLA-0348,30/04/2025,Australia,Sydney,Model S,3,"Range is acceptable for daily driving, but long trips need planning."
+TSLA-0099,23/05/2026,Australia,Gold Coast,Model 3,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0364,30/05/2025,Australia,Gold Coast,Model 3,3,"I use Autopilot occasionally, mostly on long straight roads. Service was okay, but not exceptional."
+TSLA-0065,6/04/2025,Australia,Adelaide,Cybertruck,1,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0251,20/11/2025,Australia,Gold Coast,Model X,1,"Panel gaps and trim issues were disappointing. The car performs well, but the build quality should be better. Range anxiety is real on longer trips. Not a deal breaker, but it affects trust."
+TSLA-0317,5/12/2024,Australia,Sydney,Model Y,3,"Charging has been fine overall, but availability depends heavily on where you live and travel. The range estimate is usually fine, although I would not rely on the maximum number shown at purchase."
+TSLA-0017,24/03/2025,Australia,Canberra,Model Y,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0480,2/10/2024,Australia,Adelaide,Cybertruck,4,"Performance is the best part of owning the car. It is fast, quiet, and smooth."
+TSLA-0356,28/01/2026,Australia,Brisbane,Model 3,3,"Cabin quality is fine, though not luxurious."
+TSLA-0323,28/09/2024,Australia,Sydney,Model 3,3,"Autopilot is helpful on highways, but I treat it as assistance rather than automation."
+TSLA-0486,13/02/2024,Australia,Sydney,Model S,4,"I was worried about charging before buying, but it has been one of the easiest parts of ownership."
+TSLA-0030,2/11/2024,Australia,Geelong,Model 3,2,"Performance is excellent, but it does not compensate for the service and charging frustrations. Overall, I expected better."
+TSLA-0118,9/04/2025,Australia,Adelaide,Model Y,2,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0002,8/09/2025,Australia,Geelong,Model 3,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0409,24/10/2025,Australia,Gold Coast,Cybertruck,5,Range has been more than enough for my daily commute and weekend driving. It still feels exciting to drive.
+TSLA-0402,3/09/2025,Australia,Canberra,Model 3,5,Range has been more than enough for my daily commute and weekend driving.
+TSLA-0140,16/01/2025,Australia,Canberra,Model Y,2,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0361,5/01/2024,Australia,Sydney,Model 3,4,"The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips. For city use the range is enough. For regional driving, I still plan carefully."
+TSLA-0307,23/07/2025,Australia,Newcastle,Model Y,1,"The acceleration is amazing, although tyre wear has been higher than I expected. Tesla's service experience does not match the price of the car. Overall, I expected better."
+TSLA-0200,28/06/2024,Australia,Sydney,Model S,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. Overall, I expected better."
+TSLA-0045,28/03/2025,Australia,Newcastle,Model 3,2,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0272,12/09/2024,Australia,Brisbane,Model Y,1,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0081,3/04/2024,Australia,Sydney,Model Y,2,There are rattles from the dashboard after only a few months. It makes the car feel less premium.
+TSLA-0298,27/01/2026,Australia,Adelaide,Model 3,2,"I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive. Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0330,3/04/2024,Australia,Adelaide,Model Y,4,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0033,24/04/2024,Australia,Sydney,Model Y,2,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0478,8/04/2026,Australia,Geelong,Model 3,5,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0206,16/10/2025,Australia,Melbourne,Model 3,2,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls. Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger."
+TSLA-0090,2/04/2025,Australia,Brisbane,Model Y,3,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0320,16/03/2026,Australia,Hobart,Cybertruck,3,The feature is useful in some situations and annoying in others. It depends on the road conditions. The interior is simple and modern.
+TSLA-0019,7/08/2024,Australia,Newcastle,Model 3,1,"The seats are comfortable, but the interior finish does not feel as refined as European competitors. The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0404,10/11/2025,Australia,Perth,Model Y,4,"I expected more anxiety, but the navigation system manages charging stops well. Autopilot reduces fatigue during long highway drives. I still pay attention, but it makes driving easier."
+TSLA-0218,16/06/2026,Australia,Adelaide,Model 3,2,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision.
+TSLA-0213,4/04/2025,Australia,Gold Coast,Cybertruck,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. The acceleration is amazing, although tyre wear has been higher than I expected."
+TSLA-0433,5/09/2025,Australia,Gold Coast,Model Y,5,The app made it easy to schedule service and track updates.
+TSLA-0390,16/04/2024,Australia,Brisbane,Model S,3,"My service experience was acceptable, but I expected more proactive communication."
+TSLA-0151,18/01/2025,Australia,Melbourne,Model Y,2,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger. The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0338,30/07/2025,Australia,Melbourne,Cybertruck,4,"Autopilot is helpful on highways, but I treat it as assistance rather than automation."
+TSLA-0263,11/08/2025,Australia,Brisbane,Model Y,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0084,7/02/2024,Australia,Geelong,Cybertruck,1,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. Cold mornings and highway driving reduce range noticeably."
+TSLA-0243,14/04/2024,Australia,Adelaide,Model Y,1,Tesla's service experience does not match the price of the car.
+TSLA-0297,17/02/2024,Australia,Geelong,Model 3,1,"The system feels advanced, but the naming creates unrealistic expectations."
+TSLA-0025,23/05/2026,Australia,Geelong,Model Y,1,"The car feels like a phone on wheels, which is good until an update introduces a new problem. The interior looks clean, but some materials feel cheaper than expected for the price. Overall, I expected better."
+TSLA-0267,1/10/2024,Australia,Melbourne,Model 3,2,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0246,8/01/2026,Australia,Perth,Model 3,1,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0343,7/06/2026,Australia,Geelong,Model S,4,"My service experience was acceptable, but I expected more proactive communication."
+TSLA-0370,29/10/2024,Australia,Gold Coast,Model Y,4,"The interior is simple and modern. Some people will love it; others may find it too plain. Autopilot is helpful on highways, but I treat it as assistance rather than automation."
+TSLA-0219,3/10/2025,Australia,Brisbane,Model Y,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. Not a deal breaker, but it affects trust."
+TSLA-0355,18/11/2025,Australia,Newcastle,Model Y,3,"The software experience is modern, although frequent changes can be slightly annoying."
+TSLA-0340,20/02/2024,Australia,Perth,Model 3,4,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0494,14/02/2024,Australia,Melbourne,Model Y,4,Autopilot reduces fatigue during long highway drives.
+TSLA-0113,3/01/2024,Australia,Hobart,Model S,1,"A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them. Overall, I expected better."
+TSLA-0294,26/05/2025,Australia,Sydney,Model Y,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger."
+TSLA-0473,30/06/2024,Australia,Geelong,Cybertruck,4,"The range is reliable for my usage, especially with home charging."
+TSLA-0184,6/01/2025,Australia,Perth,Model Y,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0014,15/09/2025,Australia,Geelong,Model X,2,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised. I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive.
+TSLA-0353,28/11/2025,Australia,Canberra,Model Y,4,The interior is simple and modern. Some people will love it; others may find it too plain.
+TSLA-0241,20/07/2025,Australia,Canberra,Model Y,3,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0260,14/08/2025,Australia,Melbourne,Model 3,1,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0083,3/04/2024,Australia,Newcastle,Model Y,1,"Panel gaps and trim issues were disappointing. The car performs well, but the build quality should be better. Cold mornings and highway driving reduce range noticeably. Tesla should communicate real-world range more honestly."
+TSLA-0366,26/08/2025,Australia,Sydney,Model 3,3,"Charging has been fine overall, but availability depends heavily on where you live and travel. I use Autopilot occasionally, mostly on long straight roads. I would recommend a test drive first."
+TSLA-0156,16/09/2024,Australia,Canberra,Model Y,2,"The car is great when charged, but public charging was stressful."
+TSLA-0386,21/04/2026,Australia,Brisbane,Model 3,3,"I like receiving updates, but I usually wait to see what other owners say first."
+TSLA-0074,1/05/2024,Australia,Perth,Model 3,3,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0175,6/06/2024,Australia,Hobart,Model Y,2,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0314,15/04/2026,Australia,Geelong,Model 3,3,"The mobile technician was helpful, but the wait time for booking was longer than expected. For city use the range is enough. For regional driving, I still plan carefully."
+TSLA-0471,25/09/2024,Australia,Melbourne,Cybertruck,5,"Updates have improved navigation, entertainment, and charging information over time. This is the most enjoyable car I have owned."
+TSLA-0178,15/03/2024,Australia,Newcastle,Model Y,3,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0093,10/06/2026,Australia,Gold Coast,Model S,2,Range anxiety is real on longer trips.
+TSLA-0318,3/03/2026,Australia,Brisbane,Model Y,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0130,21/12/2025,Australia,Geelong,Model 3,2,Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive.
+TSLA-0095,20/03/2025,Australia,Melbourne,Model 3,1,Autopilot is impressive but inconsistent.
+TSLA-0326,31/08/2025,Australia,Canberra,Cybertruck,4,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0252,1/07/2025,Australia,Gold Coast,Model Y,3,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0141,6/04/2024,Australia,Canberra,Model 3,2,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0442,9/05/2025,Australia,Geelong,Model Y,5,"Autopilot reduces fatigue during long highway drives. I still pay attention, but it makes driving easier. The cabin is quiet and comfortable for daily driving."
+TSLA-0055,10/12/2024,Australia,Gold Coast,Model Y,1,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0032,4/01/2024,Australia,Sydney,Model X,2,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated.
+TSLA-0389,8/05/2026,Australia,Gold Coast,Model Y,3,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0207,14/02/2026,Australia,Newcastle,Model Y,2,"The acceleration is amazing, although tyre wear has been higher than I expected."
+TSLA-0255,5/12/2025,Australia,Hobart,Model Y,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. The system feels advanced, but the naming creates unrealistic expectations."
+TSLA-0211,9/03/2025,Australia,Sydney,Model Y,2,A recent update made the parking sensors feel less accurate.
+TSLA-0240,25/08/2024,Australia,Gold Coast,Model 3,3,The advertised range feels optimistic.
+TSLA-0063,22/04/2026,Australia,Gold Coast,Model Y,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0351,1/12/2025,Australia,Adelaide,Model Y,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0182,13/04/2025,Australia,Geelong,Cybertruck,1,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger. Autopilot is impressive but inconsistent.
+TSLA-0328,6/02/2025,Australia,Sydney,Model 3,3,"Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0265,1/06/2025,Australia,Geelong,Model Y,1,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0215,10/09/2024,Australia,Perth,Model Y,2,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0331,26/09/2024,Australia,Newcastle,Model 3,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0027,9/02/2025,Australia,Adelaide,Model 3,2,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0097,26/09/2025,Australia,Gold Coast,Model 3,1,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0189,3/09/2025,Australia,Sydney,Model S,2,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0302,1/06/2025,Australia,Melbourne,Model 3,3,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0399,27/09/2025,Australia,Perth,Model S,3,"The car drives well, although I care more about comfort and reliability than acceleration."
+TSLA-0352,11/07/2024,Australia,Adelaide,Model Y,3,Charging is manageable with planning.
+TSLA-0469,6/04/2025,Australia,Geelong,Model S,5,"The app and software are major strengths. Tesla feels ahead of traditional car companies here. Mobile service fixed my issue at home, which was very convenient."
+TSLA-0379,1/06/2024,Australia,Gold Coast,Model Y,3,"I like receiving updates, but I usually wait to see what other owners say first."
+TSLA-0474,21/12/2024,Australia,Adelaide,Model Y,5,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0336,30/03/2024,Australia,Melbourne,Model 3,4,The feature is useful in some situations and annoying in others. It depends on the road conditions.
+TSLA-0050,19/09/2025,Australia,Newcastle,Model S,1,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0042,12/03/2024,Australia,Gold Coast,Model 3,2,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0417,17/04/2025,Australia,Geelong,Model X,5,"Updates have improved navigation, entertainment, and charging information over time."
+TSLA-0122,7/06/2026,Australia,Gold Coast,Cybertruck,3,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0245,22/06/2024,Australia,Gold Coast,Model Y,1,"The acceleration is amazing, although tyre wear has been higher than I expected. The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests. Not a deal breaker, but it affects trust."
+TSLA-0319,10/12/2024,Australia,Melbourne,Model Y,4,"The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips. For city use the range is enough. For regional driving, I still plan carefully."
+TSLA-0158,3/01/2026,Australia,Melbourne,Model S,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived."
+TSLA-0384,6/09/2025,Australia,Hobart,Model Y,3,"The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips."
+TSLA-0121,2/03/2024,Australia,Geelong,Model S,2,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0233,12/04/2026,Australia,Geelong,Model 3,2,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0253,31/08/2025,Australia,Geelong,Model Y,3,"The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. Overall, I expected better."
+TSLA-0123,17/05/2026,Australia,Perth,Model Y,1,"Autopilot is impressive but inconsistent. It sometimes brakes suddenly when there is no obvious reason, which makes passengers nervous. The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0021,11/09/2024,Australia,Melbourne,Model 3,2,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised. The interface keeps changing.
+TSLA-0092,22/05/2025,Australia,Brisbane,Model S,3,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0210,18/04/2025,Australia,Geelong,Model Y,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0152,16/02/2026,Australia,Brisbane,Model Y,3,"The charging network is good in big cities, but patchy once you leave the metro area."
+TSLA-0465,22/07/2024,Australia,Hobart,Model Y,4,"The range is reliable for my usage, especially with home charging."
+TSLA-0153,24/06/2025,Australia,Hobart,Cybertruck,1,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down. Tesla oversells the driver assistance features. Not a deal breaker, but it affects trust."
+TSLA-0060,14/11/2024,Australia,Brisbane,Model 3,2,"Autopilot is impressive but inconsistent. It sometimes brakes suddenly when there is no obvious reason, which makes passengers nervous."
+TSLA-0279,15/03/2025,Australia,Perth,Model S,2,"The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. The car is great when charged, but public charging was stressful. Tesla needs to fix this before scaling further."
+TSLA-0069,26/12/2024,Australia,Canberra,Model S,2,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0007,19/12/2025,Australia,Adelaide,Model Y,1,"The interior looks clean, but some materials feel cheaper than expected for the price. Tesla needs to fix this before scaling further."
+TSLA-0407,1/04/2025,Australia,Geelong,Model Y,5,"The cabin is quiet and comfortable for daily driving. Performance is the best part of owning the car. Overall, I am happy with the purchase."
+TSLA-0394,28/12/2025,Australia,Canberra,Model Y,3,Performance is strong and smooth. It is one of the car's clear strengths.
+TSLA-0346,23/08/2025,Australia,Newcastle,Cybertruck,3,"For city use the range is enough. For regional driving, I still plan carefully. The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips."
+TSLA-0419,23/09/2025,Australia,Canberra,Model Y,4,The app made it easy to schedule service and track updates. I love the minimalist interior.
+TSLA-0220,22/02/2025,Australia,Gold Coast,Model 3,2,"Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. I like the car, but the charging experience is inconsistent."
+TSLA-0482,29/09/2024,Australia,Sydney,Cybertruck,5,The Supercharger network has made longer drives easier than I expected. The app routing is useful and generally accurate. Software updates make the car feel fresh.
+TSLA-0430,20/10/2025,Australia,Geelong,Model 3,4,The cabin is quiet and comfortable for daily driving.
+TSLA-0256,1/03/2025,Australia,Adelaide,Model Y,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor. The acceleration is amazing, although tyre wear has been higher than I expected."
+TSLA-0429,12/06/2025,Australia,Perth,Model Y,5,The cabin is quiet and comfortable for daily driving.
+TSLA-0106,22/04/2026,Australia,Gold Coast,Model 3,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger. The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0171,22/06/2025,Australia,Newcastle,Cybertruck,1,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0224,4/08/2024,Australia,Sydney,Cybertruck,1,"There are rattles from the dashboard after only a few months. It makes the car feel less premium. Not a deal breaker, but it affects trust."
+TSLA-0457,15/01/2025,Australia,Newcastle,Model 3,5,"Updates have improved navigation, entertainment, and charging information over time. The cabin is quiet and comfortable for daily driving."
+TSLA-0186,11/02/2024,Australia,Geelong,Model Y,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned. The car is quick, but the ride can feel firm on rough roads."
+TSLA-0437,30/05/2025,Australia,Geelong,Model X,5,I love the minimalist interior.
+TSLA-0434,27/04/2025,Australia,Hobart,Model 3,5,The cabin is quiet and comfortable for daily driving. I find Autopilot helpful and safer when used properly.
+TSLA-0337,24/08/2025,Australia,Hobart,Model 3,4,"For city use the range is enough. For regional driving, I still plan carefully. Overall, it depends on your expectations."
+TSLA-0424,9/01/2025,Australia,Brisbane,Model Y,5,The Supercharger network has made longer drives easier than I expected. The app routing is useful and generally accurate. The large screen and simple layout make the car feel futuristic. I would recommend it to the right buyer.
+TSLA-0477,28/04/2026,Australia,Gold Coast,Model 3,4,The cabin is quiet and comfortable for daily driving. My service appointment was smooth and the staff explained the issue clearly.
+TSLA-0082,13/08/2025,Australia,Adelaide,Model Y,3,"Performance is excellent, but it does not compensate for the service and charging frustrations. Tesla needs to fix this before scaling further."
+TSLA-0443,4/02/2026,Australia,Melbourne,Model X,5,Software updates make the car feel fresh. I like that new features appear without visiting a dealership.
+TSLA-0145,14/05/2026,Australia,Adelaide,Model 3,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0194,23/12/2024,Australia,Newcastle,Model Y,2,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0038,16/08/2024,Australia,Perth,Model S,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0111,3/04/2024,Australia,Newcastle,Model 3,1,Charging on road trips takes more planning than Tesla's marketing suggests.
+TSLA-0273,4/10/2025,Australia,Adelaide,Model Y,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. The service centre cancelled my appointment the day before. That is not acceptable for a premium brand."
+TSLA-0410,25/07/2025,Australia,Adelaide,Model 3,4,"Mobile service fixed my issue at home, which was very convenient."
+TSLA-0181,20/02/2026,Australia,Perth,Model S,3,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0462,26/05/2026,Australia,Gold Coast,Model 3,4,My service appointment was smooth and the staff explained the issue clearly. Performance is the best part of owning the car. It still feels exciting to drive.
+TSLA-0201,16/06/2026,Australia,Adelaide,Cybertruck,2,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0455,25/05/2025,Australia,Perth,Model Y,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership. Performance is the best part of owning the car. It is fast, quiet, and smooth."
+TSLA-0052,23/03/2024,Australia,Geelong,Model 3,1,"Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger. The interface keeps changing. I do not want to relearn basic settings after every update. Not a deal breaker, but it affects trust."
+TSLA-0300,16/04/2024,Australia,Adelaide,Model Y,2,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0197,22/09/2025,Australia,Melbourne,Model 3,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. The service centre cancelled my appointment the day before. That is not acceptable for a premium brand."
+TSLA-0369,26/04/2024,Australia,Adelaide,Model Y,3,The interior is simple and modern. Some people will love it; others may find it too plain.
+TSLA-0216,3/09/2024,Australia,Sydney,Model S,2,"The interface keeps changing. I do not want to relearn basic settings after every update. The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0385,29/04/2026,Australia,Canberra,Model 3,3,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0053,27/02/2026,Australia,Gold Coast,Model X,1,I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive. Tesla needs to fix this before scaling further.
+TSLA-0034,10/05/2024,Australia,Gold Coast,Model Y,2,The biggest disappointment has been service.
+TSLA-0271,23/10/2024,Australia,Adelaide,Cybertruck,1,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0115,26/04/2024,Australia,Geelong,Model S,1,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. A recent update made the parking sensors feel less accurate. Tesla needs to fix this before scaling further.
+TSLA-0085,27/02/2025,Australia,Newcastle,Model X,1,"The interior looks clean, but some materials feel cheaper than expected for the price. I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive."
+TSLA-0470,7/04/2024,Australia,Melbourne,Model 3,4,Software updates make the car feel fresh.
+TSLA-0311,17/07/2025,Australia,Gold Coast,Model 3,3,"The feature is useful in some situations and annoying in others. It depends on the road conditions. The range estimate is usually fine, although I would not rely on the maximum number shown at purchase."
+TSLA-0466,4/03/2026,Australia,Newcastle,Model Y,4,"Updates have improved navigation, entertainment, and charging information over time. I would recommend it to the right buyer."
+TSLA-0431,22/11/2025,Australia,Newcastle,Model S,5,The Supercharger network has made longer drives easier than I expected. The app routing is useful and generally accurate.
+TSLA-0147,30/03/2025,Australia,Perth,Model Y,2,"After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating. I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0403,13/03/2026,Australia,Melbourne,Model Y,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership. Range has been more than enough for my daily commute and weekend driving."
+TSLA-0107,18/12/2025,Australia,Newcastle,Model 3,1,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls. Overall, I expected better."
+TSLA-0059,11/08/2024,Australia,Hobart,Model Y,1,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0275,20/05/2026,Australia,Canberra,Model Y,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0432,13/06/2024,Australia,Hobart,Model 3,4,Range has been more than enough for my daily commute and weekend driving. I would recommend it to the right buyer.
+TSLA-0301,14/02/2024,Australia,Melbourne,Model Y,3,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0174,17/10/2024,Australia,Geelong,Cybertruck,1,"Performance is excellent, but it does not compensate for the service and charging frustrations. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0134,27/06/2025,Australia,Melbourne,Model 3,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind."
+TSLA-0327,13/04/2024,Australia,Sydney,Model Y,3,"The feature is useful in some situations and annoying in others. It depends on the road conditions. The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips."
+TSLA-0187,15/06/2024,Australia,Canberra,Cybertruck,1,"Panel gaps and trim issues were disappointing. The car performs well, but the build quality should be better."
+TSLA-0283,30/05/2026,Australia,Newcastle,Model Y,1,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0036,24/01/2026,Australia,Brisbane,Model Y,1,A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them.
+TSLA-0169,23/03/2026,Australia,Brisbane,Model Y,1,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger. Overall, I expected better."
+TSLA-0363,14/07/2024,Australia,Geelong,Model S,4,Performance is strong and smooth. It is one of the car's clear strengths.
+TSLA-0492,27/05/2026,Australia,Hobart,Model X,5,"I expected more anxiety, but the navigation system manages charging stops well."
+TSLA-0039,13/02/2025,Australia,Geelong,Model Y,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0398,25/01/2025,Australia,Sydney,Model 3,4,"The software experience is modern, although frequent changes can be slightly annoying."
+TSLA-0072,25/04/2025,Australia,Adelaide,Model 3,1,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0143,13/11/2024,Australia,Melbourne,Model 3,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive."
+TSLA-0304,19/05/2024,Australia,Perth,Model 3,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. Tesla's service experience does not match the price of the car."
+TSLA-0209,15/05/2025,Australia,Hobart,Model Y,2,"The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0100,2/08/2025,Australia,Sydney,Model Y,3,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0225,19/07/2025,Australia,Perth,Model Y,2,Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind.
+TSLA-0066,5/08/2024,Australia,Newcastle,Model 3,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger."
+TSLA-0449,2/04/2024,Australia,Melbourne,Model S,5,I find Autopilot helpful and safer when used properly. The large screen and simple layout make the car feel futuristic.
+TSLA-0016,16/07/2025,Australia,Newcastle,Model 3,2,"The acceleration is amazing, although tyre wear has been higher than I expected. I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0208,20/03/2024,Australia,Canberra,Model Y,2,"The car feels like a phone on wheels, which is good until an update introduces a new problem. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0446,28/02/2024,Australia,Hobart,Model 3,5,Range has been more than enough for my daily commute and weekend driving.
+TSLA-0129,4/08/2024,Australia,Adelaide,Model 3,2,Charging on road trips takes more planning than Tesla's marketing suggests.
+TSLA-0061,18/03/2024,Australia,Perth,Cybertruck,2,"The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0078,8/11/2025,Australia,Hobart,Model S,3,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision.
+TSLA-0161,11/01/2025,Australia,Newcastle,Model 3,1,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0254,9/02/2026,Australia,Gold Coast,Model 3,2,"Home charging works well, but apartment charging is still a nightmare."
+TSLA-0091,8/08/2025,Australia,Perth,Model X,3,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. Software updates are a mixed bag."
+TSLA-0303,24/09/2024,Australia,Adelaide,Model 3,2,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated.
+TSLA-0426,2/01/2025,Australia,Newcastle,Cybertruck,5,The acceleration is incredible.
+TSLA-0274,14/05/2025,Australia,Newcastle,Model X,2,A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them.
+TSLA-0411,2/02/2025,Australia,Sydney,Model Y,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership. The app made it easy to schedule service and track updates. I would recommend it to the right buyer."
+TSLA-0191,27/04/2025,Australia,Hobart,Model Y,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0344,19/06/2026,Australia,Geelong,Model 3,3,"Charging has been fine overall, but availability depends heavily on where you live and travel. Range is acceptable for daily driving, but long trips need planning."
+TSLA-0126,6/03/2026,Australia,Canberra,Model 3,1,I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive.
+TSLA-0086,16/12/2025,Australia,Newcastle,Cybertruck,2,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0381,21/03/2024,Australia,Perth,Model Y,3,The charging experience is mostly okay.
+TSLA-0445,21/03/2025,Australia,Hobart,Model 3,4,"Mobile service fixed my issue at home, which was very convenient. I expected more anxiety, but the navigation system manages charging stops well. It still feels exciting to drive."
+TSLA-0237,17/02/2024,Australia,Adelaide,Model Y,2,"The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0064,4/03/2026,Australia,Geelong,Model S,1,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0011,31/05/2026,Australia,Sydney,Model Y,1,"Performance is excellent, but it does not compensate for the service and charging frustrations. The charging network is good in big cities, but patchy once you leave the metro area."
+TSLA-0397,4/06/2026,Australia,Geelong,Model Y,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0448,29/03/2024,Australia,Brisbane,Model Y,4,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0238,31/07/2024,Australia,Sydney,Model X,1,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0144,4/06/2025,Australia,Gold Coast,Model Y,2,Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind. Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive.
+TSLA-0235,31/10/2025,Australia,Melbourne,Model Y,1,"Performance is excellent, but it does not compensate for the service and charging frustrations. The system feels advanced, but the naming creates unrealistic expectations. Overall, I expected better."
+TSLA-0349,9/03/2025,Australia,Adelaide,Model 3,4,"The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips."
+TSLA-0096,26/03/2026,Australia,Canberra,Model 3,1,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor. The system feels advanced, but the naming creates unrealistic expectations."
+TSLA-0333,2/11/2024,Australia,Newcastle,Model X,3,The interior is simple and modern.
+TSLA-0249,11/03/2026,Australia,Hobart,Model Y,2,"Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger. The system feels advanced, but the naming creates unrealistic expectations."
+TSLA-0464,1/02/2026,Australia,Newcastle,Model Y,5,"The app and software are major strengths. Tesla feels ahead of traditional car companies here. The range is reliable for my usage, especially with home charging."
+TSLA-0051,10/05/2026,Australia,Perth,Model Y,3,The service centre cancelled my appointment the day before.
+TSLA-0261,24/06/2025,Australia,Newcastle,Model Y,1,"The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. The car feels like a phone on wheels, which is good until an update introduces a new problem. Not a deal breaker, but it affects trust."
+TSLA-0195,18/04/2026,Australia,Gold Coast,Model Y,2,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated.
+TSLA-0119,16/03/2025,Australia,Perth,Model Y,3,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0198,6/01/2024,Australia,Brisbane,Model Y,1,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating. Tesla needs to fix this before scaling further.
+TSLA-0150,30/05/2024,Australia,Geelong,Model 3,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0286,30/01/2025,Australia,Newcastle,Cybertruck,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor. Performance is excellent, but it does not compensate for the service and charging frustrations."
+TSLA-0056,31/07/2025,Australia,Hobart,Model X,2,"Performance is excellent, but it does not compensate for the service and charging frustrations. Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision."
+TSLA-0483,29/01/2025,Australia,Perth,Model S,4,"The cabin is quiet and comfortable for daily driving. Mobile service fixed my issue at home, which was very convenient."
+TSLA-0388,13/04/2025,Australia,Newcastle,Model 3,3,"I use Autopilot occasionally, mostly on long straight roads."
+TSLA-0199,24/11/2024,Australia,Adelaide,Model 3,2,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0035,6/02/2026,Australia,Hobart,Model Y,3,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0005,27/10/2024,Australia,Geelong,Model Y,3,I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive.
+TSLA-0239,5/12/2024,Australia,Geelong,Model Y,3,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. Tesla needs to fix this before scaling further."
+TSLA-0308,19/08/2025,Australia,Melbourne,Model Y,2,"The seats are comfortable, but the interior finish does not feel as refined as European competitors. The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0139,1/01/2026,Australia,Canberra,Model 3,1,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor. Overall, I expected better."
+TSLA-0313,10/04/2026,Australia,Sydney,Model Y,3,"The charging experience is mostly okay. I charge at home, so public charging only matters on longer trips. I like receiving updates, but I usually wait to see what other owners say first."
+TSLA-0476,3/09/2025,Australia,Adelaide,Model Y,4,Range has been more than enough for my daily commute and weekend driving.
+TSLA-0031,4/01/2026,Australia,Perth,Model 3,1,"A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them. The car is quick, but the ride can feel firm on rough roads."
+TSLA-0088,6/09/2024,Australia,Newcastle,Model Y,2,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0484,26/11/2024,Australia,Adelaide,Model Y,5,"Performance is the best part of owning the car. It is fast, quiet, and smooth. I would recommend it to the right buyer."
+TSLA-0315,21/11/2024,Australia,Hobart,Model 3,4,"The big screen works well, but the lack of buttons takes time to adjust to."
+TSLA-0270,18/06/2024,Australia,Gold Coast,Model Y,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger."
+TSLA-0489,13/09/2024,Australia,Brisbane,Model Y,5,"Mobile service fixed my issue at home, which was very convenient."
+TSLA-0010,3/02/2026,Australia,Adelaide,Model Y,1,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station."
+TSLA-0073,18/05/2025,Australia,Gold Coast,Model X,2,"Performance is excellent, but it does not compensate for the service and charging frustrations."
+TSLA-0427,10/04/2025,Australia,Newcastle,Model Y,5,"Mobile service fixed my issue at home, which was very convenient. The instant torque and handling make the car genuinely fun to drive."
+TSLA-0459,16/12/2025,Australia,Melbourne,Model 3,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership."
+TSLA-0133,22/03/2025,Australia,Perth,Model X,1,"The seats are comfortable, but the interior finish does not feel as refined as European competitors. Not a deal breaker, but it affects trust."
+TSLA-0268,14/04/2024,Australia,Gold Coast,Model Y,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0491,29/10/2024,Australia,Newcastle,Model Y,4,The cabin is quiet and comfortable for daily driving.
+TSLA-0105,9/01/2025,Australia,Geelong,Cybertruck,3,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned. Tesla needs to fix this before scaling further."
+TSLA-0109,28/02/2025,Australia,Brisbane,Model S,2,"Performance is excellent, but it does not compensate for the service and charging frustrations."
+TSLA-0276,11/12/2024,Australia,Adelaide,Model 3,2,"The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0108,18/05/2024,Australia,Geelong,Model 3,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0170,12/01/2025,Australia,Hobart,Model Y,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0463,15/03/2026,Australia,Canberra,Model Y,5,This is the most enjoyable car I have owned.
+TSLA-0242,25/03/2024,Australia,Melbourne,Model S,2,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated.
+TSLA-0231,12/05/2026,Australia,Brisbane,Model 3,1,The interface keeps changing.
+TSLA-0322,31/08/2024,Australia,Melbourne,Model 3,4,"The feature is useful in some situations and annoying in others. It depends on the road conditions. Overall, it depends on your expectations."
+TSLA-0057,11/10/2024,Australia,Gold Coast,Model 3,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0176,24/03/2024,Australia,Sydney,Model X,2,"The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0008,12/08/2024,Australia,Geelong,Cybertruck,1,Cold mornings and highway driving reduce range noticeably. Tesla should communicate real-world range more honestly.
+TSLA-0148,27/03/2025,Australia,Hobart,Model 3,3,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0367,31/10/2025,Australia,Melbourne,Cybertruck,3,"Range is acceptable for daily driving, but long trips need planning. My service experience was acceptable, but I expected more proactive communication. There are clear pros and cons."
+TSLA-0339,15/09/2025,Australia,Hobart,Model Y,3,"Cabin quality is fine, though not luxurious. The range estimate is usually fine, although I would not rely on the maximum number shown at purchase."
+TSLA-0488,18/03/2026,Australia,Geelong,Model 3,4,"Updates have improved navigation, entertainment, and charging information over time."
+TSLA-0332,27/02/2025,Australia,Geelong,Model Y,3,"I use Autopilot occasionally, mostly on long straight roads. My service experience was acceptable, but I expected more proactive communication."
+TSLA-0357,29/12/2024,Australia,Perth,Model Y,4,Performance is strong and smooth. It is one of the car's clear strengths.
+TSLA-0447,13/03/2026,Australia,Sydney,Model 3,5,I find Autopilot helpful and safer when used properly.
+TSLA-0192,15/04/2025,Australia,Brisbane,Model Y,2,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0103,27/06/2025,Australia,Canberra,Model Y,1,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0441,24/09/2024,Australia,Adelaide,Model Y,4,"I was worried about charging before buying, but it has been one of the easiest parts of ownership."
+TSLA-0023,12/05/2025,Australia,Gold Coast,Model 3,2,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down. Software updates are a mixed bag. Not a deal breaker, but it affects trust."
+TSLA-0226,22/04/2025,Australia,Newcastle,Model Y,1,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived."
+TSLA-0075,31/10/2024,Australia,Newcastle,Model Y,2,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station."
+TSLA-0227,30/07/2025,Australia,Sydney,Model 3,1,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger. Tesla needs to fix this before scaling further.
+TSLA-0342,2/10/2024,Australia,Canberra,Model S,3,"Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0180,9/04/2024,Australia,Brisbane,Model Y,1,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0087,17/04/2025,Australia,Melbourne,Model X,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected. Tesla needs to fix this before scaling further."
+TSLA-0500,18/11/2024,Australia,Canberra,Model Y,5,I find Autopilot helpful and safer when used properly.
+TSLA-0013,4/01/2024,Australia,Newcastle,Model Y,1,Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind.
+TSLA-0378,15/06/2025,Australia,Canberra,Model Y,3,"I like receiving updates, but I usually wait to see what other owners say first."
+TSLA-0177,24/05/2025,Australia,Sydney,Model Y,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0165,15/01/2025,Australia,Canberra,Model Y,2,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0098,21/10/2024,Australia,Newcastle,Model Y,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them."
+TSLA-0428,27/06/2024,Australia,Hobart,Model Y,5,The Supercharger network has made longer drives easier than I expected. The app routing is useful and generally accurate.
+TSLA-0444,20/09/2025,Australia,Geelong,Model 3,4,The app made it easy to schedule service and track updates. It still feels exciting to drive.
+TSLA-0217,10/08/2024,Australia,Geelong,Model Y,1,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision."
+TSLA-0212,22/02/2025,Australia,Adelaide,Model Y,3,There are rattles from the dashboard after only a few months. It makes the car feel less premium.
+TSLA-0058,11/02/2026,Australia,Sydney,Model S,2,"The car is great when charged, but public charging was stressful."
+TSLA-0046,9/12/2024,Australia,Hobart,Model 3,2,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0374,14/04/2026,Australia,Canberra,Model S,3,"The car drives well, although I care more about comfort and reliability than acceleration. The feature is useful in some situations and annoying in others. It depends on the road conditions."
+TSLA-0495,19/12/2025,Australia,Hobart,Model Y,4,"I find Autopilot helpful and safer when used properly. Range has been more than enough for my daily commute and weekend driving. Overall, I am happy with the purchase."
+TSLA-0498,2/10/2025,Australia,Hobart,Model Y,4,Charging at home has been extremely convenient. I wake up every morning with enough range and rarely need to visit a public charger.
+TSLA-0137,8/02/2024,Australia,Newcastle,Model 3,2,The biggest disappointment has been service.
+TSLA-0037,26/01/2025,Australia,Melbourne,Model 3,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0125,2/08/2025,Australia,Brisbane,Model 3,2,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated. The interior looks clean, but some materials feel cheaper than expected for the price."
+TSLA-0127,8/11/2025,Australia,Newcastle,Model 3,1,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0391,7/10/2024,Australia,Perth,Model Y,3,"Cabin quality is fine, though not luxurious."
+TSLA-0316,11/07/2024,Australia,Hobart,Model Y,4,"The software experience is modern, although frequent changes can be slightly annoying."
+TSLA-0288,8/08/2024,Australia,Adelaide,Model 3,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0101,13/09/2025,Australia,Perth,Model X,3,"A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them. I like the car, but the charging experience is inconsistent."
+TSLA-0362,15/03/2025,Australia,Gold Coast,Model Y,3,"My service experience was acceptable, but I expected more proactive communication. Overall, it depends on your expectations."
+TSLA-0334,30/05/2024,Australia,Hobart,Model Y,3,"Autopilot is helpful on highways, but I treat it as assistance rather than automation."
+TSLA-0203,21/11/2025,Australia,Hobart,Model S,2,Tesla's service experience does not match the price of the car.
+TSLA-0425,1/12/2025,Australia,Hobart,Model Y,5,"Charging at home has been extremely convenient. I wake up every morning with enough range and rarely need to visit a public charger. Overall, I am happy with the purchase."
+TSLA-0102,12/11/2024,Australia,Sydney,Model 3,1,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving. Range anxiety is real on longer trips."
+TSLA-0287,6/03/2025,Australia,Hobart,Model X,1,"The car is quick, but the ride can feel firm on rough roads. Not a deal breaker, but it affects trust."
+TSLA-0247,24/01/2025,Australia,Hobart,Model 3,3,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger."
+TSLA-0472,5/02/2024,Australia,Sydney,Model X,4,"I find Autopilot helpful and safer when used properly. I expected more anxiety, but the navigation system manages charging stops well."
+TSLA-0067,28/03/2024,Australia,Perth,Model 3,1,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0405,15/11/2025,Australia,Melbourne,Model Y,5,The lane keeping and adaptive cruise control are very smooth most of the time.
+TSLA-0257,22/11/2024,Australia,Newcastle,Model 3,1,The advertised range feels optimistic.
+TSLA-0359,26/06/2025,Australia,Gold Coast,Model Y,4,"My service experience was acceptable, but I expected more proactive communication."
+TSLA-0044,4/11/2024,Australia,Hobart,Model 3,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. Not a deal breaker, but it affects trust."
+TSLA-0135,5/06/2024,Australia,Hobart,Model 3,1,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0435,9/04/2025,Australia,Canberra,Model 3,5,I find Autopilot helpful and safer when used properly.
+TSLA-0281,2/11/2024,Australia,Canberra,Model 3,3,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0380,9/06/2026,Australia,Newcastle,Model Y,3,Performance is strong and smooth.
+TSLA-0436,1/12/2025,Australia,Geelong,Model X,4,My service appointment was smooth and the staff explained the issue clearly.
+TSLA-0244,3/06/2026,Australia,Canberra,Model Y,2,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down. I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0043,16/02/2025,Australia,Canberra,Model Y,2,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0173,1/05/2026,Australia,Sydney,Model Y,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0068,5/04/2024,Australia,Sydney,Model Y,2,"Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind. The acceleration is amazing, although tyre wear has been higher than I expected."
+TSLA-0076,2/10/2025,Australia,Perth,Cybertruck,2,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Tesla's service experience does not match the price of the car.
+TSLA-0377,25/02/2025,Australia,Melbourne,Cybertruck,3,"The car drives well, although I care more about comfort and reliability than acceleration. For city use the range is enough."
+TSLA-0149,21/05/2024,Australia,Hobart,Model 3,1,Cold mornings and highway driving reduce range noticeably. Tesla should communicate real-world range more honestly. A recent update made the parking sensors feel less accurate. Tesla needs to fix this before scaling further.
+TSLA-0222,4/04/2024,Australia,Canberra,Model Y,1,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station."
+TSLA-0485,3/06/2026,Australia,Sydney,Model 3,5,"I was worried about charging before buying, but it has been one of the easiest parts of ownership. Mobile service fixed my issue at home, which was very convenient."
+TSLA-0047,1/05/2025,Australia,Perth,Model 3,1,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. Not a deal breaker, but it affects trust."
+TSLA-0259,25/01/2026,Australia,Sydney,Model Y,2,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0295,7/09/2024,Australia,Sydney,Model 3,2,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0418,31/12/2024,Australia,Canberra,Model Y,5,"Mobile service fixed my issue at home, which was very convenient."
+TSLA-0229,10/01/2026,Australia,Newcastle,Model S,1,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0202,21/05/2026,Australia,Brisbane,Model Y,2,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated. I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated."
+TSLA-0414,12/01/2024,Australia,Canberra,Model X,4,I find Autopilot helpful and safer when used properly.
+TSLA-0345,1/06/2025,Australia,Newcastle,Model 3,3,"Cabin quality is fine, though not luxurious. Overall, it depends on your expectations."
+TSLA-0026,15/08/2025,Australia,Perth,Model X,1,"I like the car, but the charging experience is inconsistent. Sometimes it is seamless; other times I waste 30 minutes finding a working station. The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0079,22/03/2026,Australia,Brisbane,Model 3,3,"The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0467,7/03/2025,Australia,Canberra,Model 3,4,I find Autopilot helpful and safer when used properly.
+TSLA-0358,26/04/2025,Australia,Melbourne,Model 3,3,"Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0258,27/06/2024,Australia,Geelong,Model S,3,"The car feels like a phone on wheels, which is good until an update introduces a new problem. Panel gaps and trim issues were disappointing. The car performs well, but the build quality should be better."
+TSLA-0168,14/11/2025,Australia,Canberra,Model X,2,I had a minor issue that became a major inconvenience because parts were delayed and nobody kept me updated.
+TSLA-0077,25/08/2024,Australia,Sydney,Model Y,2,Cold mornings and highway driving reduce range noticeably. Tesla should communicate real-world range more honestly.
+TSLA-0290,30/11/2024,Australia,Geelong,Model S,1,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0277,3/10/2025,Australia,Melbourne,Model 3,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests."
+TSLA-0164,25/11/2025,Australia,Hobart,Model 3,1,"I appreciate updates, but not when they remove features or move controls without warning. Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised."
+TSLA-0022,10/04/2024,Australia,Geelong,Model X,2,"Performance is excellent, but it does not compensate for the service and charging frustrations."
+TSLA-0269,25/03/2025,Australia,Melbourne,Model Y,2,"Performance is excellent, but it does not compensate for the service and charging frustrations."
+TSLA-0157,13/07/2025,Australia,Canberra,Model 3,2,Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind. Tesla needs to fix this before scaling further.
+TSLA-0028,12/04/2024,Australia,Hobart,Model Y,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0412,23/10/2024,Australia,Melbourne,Cybertruck,4,"Updates have improved navigation, entertainment, and charging information over time. My service appointment was smooth and the staff explained the issue clearly."
+TSLA-0324,19/05/2025,Australia,Gold Coast,Model 3,3,"The range estimate is usually fine, although I would not rely on the maximum number shown at purchase. Updates are interesting and sometimes useful, but not every change matters to me."
+TSLA-0499,16/04/2024,Australia,Gold Coast,Model Y,5,Software updates make the car feel fresh. I like that new features appear without visiting a dealership.
+TSLA-0006,25/05/2026,Australia,Melbourne,Model S,2,Tesla's service experience does not match the price of the car. Staff were polite but the process felt disorganised.
+TSLA-0309,5/05/2024,Australia,Canberra,Model X,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned. Tesla needs to fix this before scaling further."
+TSLA-0335,9/03/2025,Australia,Sydney,Model 3,3,"Service was okay, but not exceptional. The app-based booking is convenient, although availability is limited."
+TSLA-0383,4/06/2025,Australia,Adelaide,Model Y,3,"The mobile technician was helpful, but the wait time for booking was longer than expected."
+TSLA-0117,16/03/2024,Australia,Newcastle,Model Y,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected. The car is great when charged, but public charging was stressful."
+TSLA-0408,3/08/2024,Australia,Melbourne,Model 3,5,Performance is the best part of owning the car.
+TSLA-0062,26/03/2026,Australia,Melbourne,Model Y,3,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0214,4/05/2026,Australia,Perth,Model S,2,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0223,3/04/2026,Australia,Perth,Model X,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0179,12/02/2025,Australia,Canberra,Cybertruck,1,There are rattles from the dashboard after only a few months.
+TSLA-0172,18/12/2024,Australia,Geelong,Model Y,2,"The acceleration is amazing, although tyre wear has been higher than I expected."
+TSLA-0395,19/10/2024,Australia,Geelong,Model Y,3,"The car drives well, although I care more about comfort and reliability than acceleration."
+TSLA-0029,10/06/2024,Australia,Adelaide,Model 3,1,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0400,20/07/2024,Australia,Hobart,Model Y,4,"I use Autopilot occasionally, mostly on long straight roads."
+TSLA-0041,13/07/2024,Australia,Hobart,Model 3,3,Cold mornings and highway driving reduce range noticeably. Tesla should communicate real-world range more honestly. Software updates are a mixed bag.
+TSLA-0196,2/11/2025,Australia,Newcastle,Model Y,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger."
+TSLA-0461,8/01/2025,Australia,Canberra,Model Y,4,"My service appointment was smooth and the staff explained the issue clearly. The range is reliable for my usage, especially with home charging."
+TSLA-0375,25/04/2024,Australia,Brisbane,Model Y,4,The interior is simple and modern.
+TSLA-0450,5/01/2024,Australia,Hobart,Cybertruck,4,The lane keeping and adaptive cruise control are very smooth most of the time. I love the minimalist interior.
+TSLA-0438,14/01/2025,Australia,Gold Coast,Model Y,5,The acceleration is incredible. It makes every drive feel effortless.
+TSLA-0329,6/05/2025,Australia,Hobart,Model X,3,"Service was okay, but not exceptional. The app-based booking is convenient, although availability is limited. Range is acceptable for daily driving, but long trips need planning."
+TSLA-0305,28/09/2024,Australia,Newcastle,Model Y,2,"The car is great when charged, but public charging was stressful."
+TSLA-0451,12/04/2026,Australia,Geelong,Model 3,5,The app made it easy to schedule service and track updates. The app and software are major strengths.
+TSLA-0420,30/12/2025,Australia,Perth,Model 3,4,"The range is reliable for my usage, especially with home charging."
+TSLA-0296,17/08/2024,Australia,Gold Coast,Model Y,3,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0360,26/05/2024,Australia,Newcastle,Cybertruck,3,"The car drives well, although I care more about comfort and reliability than acceleration."
+TSLA-0460,1/06/2026,Australia,Hobart,Model 3,5,My service appointment was smooth and the staff explained the issue clearly. Autopilot reduces fatigue during long highway drives.
+TSLA-0497,20/03/2024,Australia,Adelaide,Model S,5,"Autopilot reduces fatigue during long highway drives. I still pay attention, but it makes driving easier. I would recommend it to the right buyer."
+TSLA-0250,14/01/2026,Australia,Sydney,Model S,1,"I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0089,2/03/2026,Australia,Adelaide,Model X,3,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests. The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0248,12/12/2025,Australia,Hobart,Model 3,2,"Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Not a deal breaker, but it affects trust."
+TSLA-0406,25/01/2025,Australia,Canberra,Model Y,5,"Autopilot reduces fatigue during long highway drives. I still pay attention, but it makes driving easier."
+TSLA-0167,19/10/2024,Australia,Hobart,Model Y,1,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The advertised range feels optimistic."
+TSLA-0371,16/11/2025,Australia,Hobart,Model 3,3,"My service experience was acceptable, but I expected more proactive communication. Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0040,9/02/2024,Australia,Adelaide,Model 3,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0376,4/07/2024,Australia,Newcastle,Model Y,3,"The big screen works well, but the lack of buttons takes time to adjust to. For city use the range is enough."
+TSLA-0112,29/07/2024,Australia,Hobart,Model 3,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned."
+TSLA-0292,19/12/2025,Australia,Brisbane,Model 3,2,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned. I feel like I need to over-plan every trip outside the city."
+TSLA-0205,4/03/2024,Australia,Perth,Model Y,1,"Software updates are a mixed bag. Some improvements are useful, but other updates change controls I had already learned. Tesla needs to fix this before scaling further."
+TSLA-0453,26/02/2025,Australia,Canberra,Model Y,4,The app and software are major strengths. Tesla feels ahead of traditional car companies here. It still feels exciting to drive.
+TSLA-0048,6/09/2024,Australia,Gold Coast,Model Y,2,"Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Overall, I expected better."
+TSLA-0468,28/12/2025,Australia,Adelaide,Model 3,4,My service appointment was smooth and the staff explained the issue clearly.
+TSLA-0416,14/08/2024,Australia,Brisbane,Model 3,5,The large screen and simple layout make the car feel futuristic.
+TSLA-0132,28/11/2024,Australia,Sydney,Model 3,2,The interface keeps changing. I do not want to relearn basic settings after every update.
+TSLA-0120,12/11/2025,Australia,Canberra,Model 3,2,"Home charging works well, but apartment charging is still a nightmare."
+TSLA-0128,25/11/2025,Australia,Adelaide,Model Y,1,"The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0299,7/01/2024,Australia,Brisbane,Model S,2,"I appreciate updates, but not when they remove features or move controls without warning."
+TSLA-0188,2/11/2024,Australia,Hobart,Model Y,3,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0136,26/11/2024,Australia,Hobart,Model Y,3,"Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind. The mobile service was convenient, but when the issue needed a service centre, everything slowed down."
+TSLA-0071,9/05/2024,Australia,Geelong,Model 3,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger. After-sales support is the weak point."
+TSLA-0452,1/06/2026,Australia,Hobart,Model Y,5,The acceleration is incredible. It makes every drive feel effortless.
+TSLA-0183,17/03/2025,Australia,Melbourne,Model Y,2,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision.
+TSLA-0236,2/08/2025,Australia,Canberra,Model Y,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0020,24/02/2025,Australia,Gold Coast,Model Y,1,"The mobile service was convenient, but when the issue needed a service centre, everything slowed down. Tesla needs to fix this before scaling further."
+TSLA-0049,21/02/2024,Australia,Newcastle,Model Y,3,"After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating. The charging network is good in big cities, but patchy once you leave the metro area."
+TSLA-0080,5/10/2024,Australia,Gold Coast,Model 3,2,I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive.
+TSLA-0454,21/07/2025,Australia,Melbourne,Model X,5,"Mobile service fixed my issue at home, which was very convenient."
+TSLA-0293,28/02/2026,Australia,Melbourne,Model X,2,"The car is great when charged, but public charging was stressful. Several chargers near me were either occupied or out of service, and the app did not make that clear until I arrived. A recent update made the parking sensors feel less accurate."
+TSLA-0285,14/06/2025,Australia,Perth,Model X,3,After-sales support is the weak point. Buying the car was easy; getting help afterward was frustrating.
+TSLA-0262,21/09/2025,Australia,Adelaide,Model Y,3,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections. Home charging works well, but apartment charging is still a nightmare."
+TSLA-0284,22/10/2025,Australia,Adelaide,Model 3,1,"Performance is excellent, but it does not compensate for the service and charging frustrations. The car feels like a phone on wheels, which is good until an update introduces a new problem."
+TSLA-0142,24/03/2024,Australia,Canberra,Model X,3,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0422,20/07/2024,Australia,Geelong,Model 3,5,The cabin is quiet and comfortable for daily driving.
+TSLA-0354,20/08/2025,Australia,Sydney,Model Y,3,"Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0421,2/01/2025,Australia,Newcastle,Model Y,4,The lane keeping and adaptive cruise control are very smooth most of the time. I would recommend it to the right buyer.
+TSLA-0396,20/10/2024,Australia,Brisbane,Model 3,3,"The mobile technician was helpful, but the wait time for booking was longer than expected. Charging has been fine overall, but availability depends heavily on where you live and travel."
+TSLA-0012,27/11/2025,Australia,Sydney,Model Y,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected."
+TSLA-0162,15/04/2024,Australia,Canberra,Model Y,3,"Autopilot is impressive but inconsistent. It sometimes brakes suddenly when there is no obvious reason, which makes passengers nervous. Cold mornings and highway driving reduce range noticeably."
+TSLA-0439,10/04/2024,Australia,Hobart,Model Y,5,"I expected more anxiety, but the navigation system manages charging stops well. Software updates make the car feel fresh. I like that new features appear without visiting a dealership. I would recommend it to the right buyer."
+TSLA-0490,27/11/2024,Australia,Canberra,Model 3,4,I find Autopilot helpful and safer when used properly.
+TSLA-0114,16/01/2024,Australia,Brisbane,Model X,1,A recent update made the parking sensors feel less accurate. I wish Tesla tested changes more carefully before releasing them.
+TSLA-0154,3/09/2025,Australia,Newcastle,Model X,1,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0004,2/01/2025,Australia,Melbourne,Model 3,1,"The car is quick, but the ride can feel firm on rough roads."
+TSLA-0155,20/06/2025,Australia,Melbourne,Model 3,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0456,2/05/2024,Australia,Melbourne,Model 3,5,Charging at home has been extremely convenient. I wake up every morning with enough range and rarely need to visit a public charger.
+TSLA-0070,26/01/2026,Australia,Perth,Model 3,2,"The car is efficient around town, but long-distance range is not as reassuring as the brochure suggests. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0266,26/10/2024,Australia,Perth,Model Y,1,"The advertised range feels optimistic. On highways, especially with air conditioning, the battery drops much faster than I expected. The minimalist cabin is attractive at first, but I miss physical buttons for common controls."
+TSLA-0009,3/08/2025,Australia,Perth,Model 3,1,"The service centre cancelled my appointment the day before. That is not acceptable for a premium brand. I enjoy the performance, but insurance and maintenance costs are higher than I anticipated."
+TSLA-0306,30/12/2024,Australia,Perth,Model 3,1,"Panel gaps and trim issues were disappointing. The car performs well, but the build quality should be better."
+TSLA-0146,14/05/2024,Australia,Hobart,Model X,2,I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive. Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0018,13/03/2024,Australia,Sydney,Model Y,2,The service centre cancelled my appointment the day before. That is not acceptable for a premium brand.
+TSLA-0496,4/01/2025,Australia,Sydney,Model Y,5,This is the most enjoyable car I have owned.
+TSLA-0001,22/05/2024,Australia,Perth,Model 3,1,Autopilot is impressive but inconsistent.
+TSLA-0204,11/09/2024,Australia,Canberra,Model 3,1,"Autopilot is impressive but inconsistent. It sometimes brakes suddenly when there is no obvious reason, which makes passengers nervous. The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected."
+TSLA-0230,19/10/2025,Australia,Geelong,Model 3,2,The biggest disappointment has been service.
+TSLA-0232,17/01/2024,Australia,Newcastle,Model X,3,Autopilot is impressive but inconsistent.
+TSLA-0185,7/02/2025,Australia,Melbourne,Model 3,2,Phantom braking has happened several times. It makes me hesitant to use Autopilot when traffic is close behind.
+TSLA-0131,15/04/2025,Australia,Sydney,Model 3,3,"The biggest disappointment has been service. Getting an appointment took weeks, and communication was poor."
+TSLA-0382,15/04/2024,Australia,Sydney,Cybertruck,3,"The range estimate is usually fine, although I would not rely on the maximum number shown at purchase."
+TSLA-0475,19/06/2025,Australia,Sydney,Model 3,4,"Charging at home has been extremely convenient. I wake up every morning with enough range and rarely need to visit a public charger. Updates have improved navigation, entertainment, and charging information over time."
+TSLA-0282,9/01/2024,Australia,Hobart,Model 3,2,"Autopilot handles clear lane markings well, but struggles with roadworks and confusing intersections."
+TSLA-0393,4/12/2025,Australia,Adelaide,Model 3,3,The feature is useful in some situations and annoying in others. It depends on the road conditions. I would recommend a test drive first.
+TSLA-0193,15/07/2024,Australia,Newcastle,Model 3,3,Tesla oversells the driver assistance features. It is useful on highways but still needs constant supervision. Range anxiety is real on longer trips. I constantly check the battery percentage instead of enjoying the drive.
+TSLA-0110,29/08/2024,Australia,Newcastle,Model 3,2,"Home charging works well, but apartment charging is still a nightmare. Tesla needs better support for customers who cannot install a charger. The car is quick, but the ride can feel firm on rough roads."
+TSLA-0280,30/05/2026,Australia,Melbourne,Model Y,1,"The system feels advanced, but the naming creates unrealistic expectations. It is not autonomous driving."
+TSLA-0289,19/12/2025,Australia,Gold Coast,Model S,2,"The charging network is good in big cities, but patchy once you leave the metro area. That makes long trips more stressful than expected. The seats are comfortable, but the interior finish does not feel as refined as European competitors."
+TSLA-0124,20/09/2025,Australia,Hobart,Model S,2,"I feel like I need to over-plan every trip outside the city. The range estimate changes too much during the drive. The car is quick, but the ride can feel firm on rough roads."
+TSLA-0312,26/01/2025,Australia,Sydney,Model S,3,"For city use the range is enough. For regional driving, I still plan carefully. Cabin quality is fine, though not luxurious."
+TSLA-0166,27/01/2024,Australia,Melbourne,Model 3,2,Charging on road trips takes more planning than Tesla's marketing suggests. I lost confidence after waiting behind three cars at a Supercharger.
+TSLA-0372,20/04/2025,Australia,Adelaide,Cybertruck,3,"Autopilot is helpful on highways, but I treat it as assistance rather than automation. Charging is manageable with planning. It is not difficult, but it does require a different mindset compared with petrol cars."
+TSLA-0423,15/08/2025,Australia,Hobart,Model Y,5,The cabin is quiet and comfortable for daily driving.
+TSLA-0221,26/02/2025,Australia,Geelong,Model X,3,"I appreciate updates, but not when they remove features or move controls without warning. Overall, I expected better."
+TSLA-0325,28/10/2024,Australia,Sydney,Model Y,3,"Updates are interesting and sometimes useful, but not every change matters to me. Service was okay, but not exceptional."
+TSLA-0392,2/11/2024,Australia,Geelong,Model Y,3,"The mobile technician was helpful, but the wait time for booking was longer than expected."
