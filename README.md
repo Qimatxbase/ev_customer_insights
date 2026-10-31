@@ -34,5 +34,3 @@ python -m tesla_byd_customer_analysis.run_pipeline --skip-collection
 ```
 
 Run the pipeline from the repository root. Open `review_analysis/tesla_customer_review_nlp.ipynb` with `review_analysis/` as the notebook working directory. Raw owner-survey responses, interview records and private collection exports are not included.
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
