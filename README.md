@@ -1,8 +1,8 @@
 # Tesla Market Research & Customer Insights
 
-An integrated **UTS 24761 Data-Driven Insights project** connecting secondary market research, customer-review analysis and primary research design. Findings and recommendations are communicated through an insight poster.
+An integrated **UTS 24761 Data-Driven Insights project** connecting secondary market research, AI-assisted analysis of existing customer reviews and primary research design. Findings and recommendations are communicated through an insight poster.
 
-**Keywords:** Market research · Customer insights · Data validation · NLP · Sentiment analysis · Thematic analysis · Research design · Analytical reporting
+**Keywords:** Market research · Customer insights · AI-assisted analysis · Data validation · NLP · Sentiment analysis · Thematic analysis · Research design · Analytical reporting
 
 **Tools:** Python · Jupyter · pandas · VADER · NLTK · scikit-learn · Plotly
 
@@ -11,12 +11,13 @@ An integrated **UTS 24761 Data-Driven Insights project** connecting secondary ma
 | Stage | Focus | Deliverable |
 | --- | --- | --- |
 | Secondary research | Australian passenger-EV market context, Tesla/BYD comparison and the ownership value proposition | Research problem and analytical questions |
-| Review analysis | Data-quality checks, repeated-text audit, VADER sentiment, rating comparisons and customer-experience themes | Exploratory customer-insight analysis |
+| AI-assisted review analysis | AI-supported exploration of existing review text and customer-experience themes | Initial findings and themes |
+| Cross-checking and validation | VADER sentiment, thematic coding, star-rating comparisons and data-quality checks | Cross-checked findings and documented limitations |
 | Synthesis — Research design and communication | Proposed owner survey comparing attribute importance and satisfaction | Likert-scale research proposal, managerial implications and poster |
 
 [Open the insight poster](docs/tesla_owner_experience_poster.pdf).
 
-**Methods note:** The NLP component uses GenAI-generated review data; the owner survey is a proposed research design. Dataset-level results describe that analytical exercise. The original poster retains its historical secondary-source context.
+**Methods note:** AI supported the analysis of existing reviews. VADER sentiment and thematic coding were used to cross-check and validate the findings, alongside rating comparisons and missing-value and repeated-text checks. The owner survey is a proposed research design. The original poster retains its historical secondary-source context.
 
 ## Code and supporting material
 
